@@ -1,6 +1,7 @@
 # CS50 Havard Course
 
 <h1> What I've learnt </h1>
+
 - A broad and robust understanding of computer science and programming
 
 - How to think algorithmically and solve programming problems efficiently
